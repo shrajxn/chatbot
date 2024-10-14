@@ -6,7 +6,7 @@ import gradio as gr
 import openai
 import requests
 
-openai.api_key = 'nv2-uJsdUSG01wRCUGpn9VyO_NOVA_v2_WzILCU3y6C8OoGpR91O7'
+openai.api_key = 'your-api'
 
 URL = "https://api.nova-oss.com/v1/chat/completions"
 obt_question = []
